@@ -1,1 +1,1 @@
-# ConsoleApp1
+Büyüklük belirterek bir sembolik matris oluşturma örneği
